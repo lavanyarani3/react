@@ -1,0 +1,58 @@
+{
+	"details":
+	{
+		"name":"Lavanya",
+		"image":"1.png",
+		"email":"lav@gmail.com",
+		"number":"+91555555",
+		"address":"vsp"
+	},
+	"careerobjective":
+	{
+		"info":"To become software engineer"
+	},
+	"educationalqualification":[
+     {   
+     	"institute":"Dr.L.Bullayya College",
+     	"degree":"M.sc.",
+     	"passoutyear":"2021",
+     	"percentage":"pursuing"
+     },
+     {
+     	"institute":"Samata college",
+     	"degree":"B.sc.",
+     	"passoutyear":"2017",
+     	"percentage":"75%"
+     },
+     {
+     	"institute":"Chaitanya College",
+     	"degree":"Inter MPC",
+     	"passoutyear":"2014",
+     	"percentage":"84%"
+     },
+     {
+     	"institute":"KDPM school",
+     	"degree":"SSC",
+     	"passoutyear":"2012",
+     	"percentage":"85%"
+     }
+
+],
+	"technicalskills":[
+		{
+		  "title":"programming languages",
+		  "info":["c,c++,java"]
+		},
+		{
+			 "title":"databases",
+		  "info":["oracle, sql"]
+		},
+		{
+			 "title":"operating systems",
+		  "info":["windows,linux"]
+		}
+
+
+
+	]
+}

@@ -1,0 +1,187 @@
+body
+{
+	background-image: url(6.jfif);
+	
+}
+img{
+	width: 40%;
+	border: 1px ;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 4px 3px 4px black;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	border: 2px;
+	margin: 1%;
+	padding: 1%;
+}
+.left
+{
+      border: solid 1px black;
+       padding:10px;
+       font-size:20px;
+      text-align: center;
+      width:25%;
+    
+      background-color:#E6F0BD;
+      height: 1200px;
+}
+
+.right{
+      border: solid 1px black;
+     padding: 30px;     
+       font-size:20px;
+      width:65%;
+     
+      background-color:#E6F0BD;
+}
+a
+{
+	color:black;
+}
+table
+{
+	text-align:center;
+	font-size:17px; 
+
+}
+h4{
+background-color:green;
+	color:white;
+	padding:3px;
+	margin:3px;
+	height: 25px;
+}
+
+@media only screen and (min-width:320px) and (max-width:480px)
+{
+	body
+{
+	background-image: url(6.jfif);
+	
+}
+img{
+	width:40%;
+	border: 1px ;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 4px 3px 4px black;
+}
+.container{
+	
+	border: 1px;
+	margin: 1%;
+	padding:1%;
+
+}
+.left
+{
+      border: solid 1px black;
+       padding:1px;
+       font-size:20px;
+      text-align: center;
+      width:100%;
+     flex-wrap: wrap;
+      background-color:#E6F0BD;
+      height:500px;
+}
+
+.right{
+      border: solid 1px black;
+     padding: 30px;     
+       font-size:20px;
+      width:100%;
+     
+      background-color:#E6F0BD;
+}
+a
+{
+	color:black;
+}
+table
+{
+	text-align:center;
+	font-size:17px; 
+
+}
+h4{
+background-color:green;
+	color:white;
+	padding:3px;
+	margin:3px;
+	height: 25px;
+} 
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px)
+{
+	body
+{
+	background-image: url(6.jfif);
+	
+}
+img{
+	width: 40%;
+	border: 1px ;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 4px 3px 4px black;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	border: 2px;
+	margin: 1%;
+	padding: 1%;
+}
+.left
+{
+      border: solid 1px black;
+       font-size:20px;
+       overflow-x:auto;
+       word-wrap: break-word;
+      
+      width:90%;
+      background-color:#E6F0BD;
+      height:500px;
+}
+
+.right{
+      border: solid 1px black;
+     padding: 15px; 
+      overflow-x:auto;
+       word-wrap: break-word;    
+       font-size:20px;
+      width:90%;
+      border-radius: 5%;
+      background-color:#E6F0BD;
+}
+a
+{
+	color:black;
+}
+.table1
+{
+	overflow-x:auto;
+}
+h4 
+{
+	background-color: green;
+	color:white;
+	padding:3px;
+	margin:3px;
+	height: 25px;
+}
+}
+h3
+{
+	color:white;
+	background-color:green;
+}
+}
+
